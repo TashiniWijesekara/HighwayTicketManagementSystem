@@ -16,13 +16,13 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="api-gateway" target="22" />
-      <module name="config-server" target="22" />
-      <module name="payment-service" target="22" />
-      <module name="service-reg" target="22" />
-      <module name="ticket-service" target="22" />
-      <module name="user-service" target="22" />
-      <module name="vehicle-service" target="22" />
+      <module name="api-gateway" target="17" />
+      <module name="config-server" target="17" />
+      <module name="payment-service" target="17" />
+      <module name="service-reg" target="17" />
+      <module name="ticket-service" target="17" />
+      <module name="user-service" target="17" />
+      <module name="vehicle-service" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

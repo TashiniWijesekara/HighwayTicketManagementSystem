@@ -1,4 +1,11 @@
 package lk.ijse.paymentservice.dao;
 
-public class PaymentRepo {
+import lk.ijse.paymentservice.entity.PaymentEntity;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import java.util.List;
+
+public interface PaymentRepo extends JpaRepository {
+    List<PaymentEntity> findByTicketId(String ticketId);
+
 }
