@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5eb70877-c256-4dc4-8c72-e71e4642ee54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Highway Ticket Management System.postman_collection.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-reg/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-reg/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-reg/src/main/java/lk/ijse/servicereg/ServiceRegApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-reg/src/main/java/lk/ijse/servicereg/ServiceRegApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,13 +74,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -141,7 +145,8 @@
       <updated>1719988236382</updated>
       <workItem from="1719988237648" duration="96000" />
       <workItem from="1719988358915" duration="14666000" />
-      <workItem from="1720025864596" duration="8091000" />
+      <workItem from="1720025864596" duration="8537000" />
+      <workItem from="1720080548129" duration="2102000" />
     </task>
     <servers />
   </component>
